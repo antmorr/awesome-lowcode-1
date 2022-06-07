@@ -97,6 +97,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 * [Insomnia](https://insomnia.rest) - Build APIs that work.
 * [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
+* [Linx](https:/linx.software) - General-purpose low-code backends (APIs, Integration, Automation)
 * [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 * [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
 * [Potion](https://www.potion.so/) - Create custom websitesin minutes. All on [Notion](https://www.notion.so/).
